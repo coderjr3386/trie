@@ -1,6 +1,6 @@
 /*
  * Trie - A trie implementation in Java
- * Copyright (C) 2011 André Costa
+ * Copyright (C) 2011 AndrÃ© Costa
  * 
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Lesser General Public License as published by
@@ -35,7 +35,7 @@ import java.util.Set;
  * with every node, only with leaves and some inner nodes that correspond
  * to keys of interest.
  * 
- * @author André Costa
+ * @author AndrÃ© Costa
  *
  * @param <T> Value type.
  */
